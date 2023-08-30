@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI_Service_Lifetime", "DI_Service_Lifetime\DI_Service_Lifetime.csproj", "{31350F35-DBA7-4F5D-AA9A-1B7A6F874D0A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI_Service_Lifetime", "DI_Service_Lifetime.csproj", "{35FF3174-3344-4908-A70B-5E52EEB9D956}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{31350F35-DBA7-4F5D-AA9A-1B7A6F874D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31350F35-DBA7-4F5D-AA9A-1B7A6F874D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31350F35-DBA7-4F5D-AA9A-1B7A6F874D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31350F35-DBA7-4F5D-AA9A-1B7A6F874D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35FF3174-3344-4908-A70B-5E52EEB9D956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35FF3174-3344-4908-A70B-5E52EEB9D956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35FF3174-3344-4908-A70B-5E52EEB9D956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35FF3174-3344-4908-A70B-5E52EEB9D956}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4941693A-04BA-44E2-AFC9-9715C8529AB2}
+		SolutionGuid = {8DB571D4-86F0-4F6E-86CB-B9A6FB7E1C4A}
 	EndGlobalSection
 EndGlobal
